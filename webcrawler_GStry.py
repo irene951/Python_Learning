@@ -63,8 +63,8 @@ col_count = 5
 bar_width = 0.4
 index = (1, 1, 1)
 
-plt.ylabel("Players")          # 設定y軸標題 
-plt.xlabel("Usage%")            # 設定x軸標題
+plt.xlabel("Players")          # 設定x軸標題 
+plt.ylabel("Usage%")            # 設定y軸標題
 plt.title("Bar chart of Top Usage% Player in GSW(15-16)", {'fontsize' : 17})
 plt.xticks(fontsize = 7)
 
