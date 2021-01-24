@@ -1,7 +1,7 @@
 # Python_Learning(109-1自主學習)
 ##### H203 09郭昱君
 ### 專題成果如下:
-![image](https://github.com/irene951/Python_Learning/blob/main/Figure.png)
+![image](https://github.com/irene951/Python_Learning/blob/main/Figure.png)  
    將球員的場上數據爬蟲下來，製成DataFrame，計算其進階數據之一的使用率(Usage)。將資料視覺化，繪製成長條圖。
 ### 程式碼:
    請看專案中的**webcrawlerfinal**文件
